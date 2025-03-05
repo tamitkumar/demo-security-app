@@ -1,0 +1,1 @@
+keytool -genkeypair -alias demosecurity -keyalg RSA -keysize 2048 -validity 365 -keystore demosecurity.p12 -storetype PKCS12
